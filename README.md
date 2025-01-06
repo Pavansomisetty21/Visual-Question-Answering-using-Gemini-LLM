@@ -14,6 +14,7 @@ The success of BLIP can be attributed to two major components: MED and CapFilt.
 ### Multimodal Mixture of Encoder-Decoder (MED)
 
 The MED model is jointly pre-trained with three vision-language objectives: image-text contrastive learning, image-text matching, and image-conditioned language modeling. The architecture is as follows:
+
 ![Image](https://thepythoncode.com/media/articles/visual-question-answering-with-transformers-in-python/img001.webp)
 Image from [Original BLIP paper](https://arxiv.org/abs/2201.12086)
 
